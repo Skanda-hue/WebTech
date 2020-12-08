@@ -104,6 +104,4 @@ function LdbApp() {
 //   }
 // }
 
-//ReactDOM.render(<LdbApp />, document.getElementById("root"));
-
 export default LdbApp;
