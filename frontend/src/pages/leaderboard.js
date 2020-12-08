@@ -46,10 +46,6 @@ function LdbApp() {
   return (
     <div className="string">
       <h1 style={{ textAlign: "center" }}>Leader Board</h1>
-      {/* <Leaderboard
-        users={usersListOptions.users}
-        paginate={usersListOptions.paginate}
-      /> */}
       <table className="styled-table" style={{ color: "white" }}>
         <tbody>
           <tr>
